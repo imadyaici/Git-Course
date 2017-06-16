@@ -2,7 +2,6 @@
 
 this is the first file in this repo.
 
-##lorem ipsum
+##website content
 
-lorem ipssum paragraph.
-some more ipsum.
+1. index.html
