@@ -1,8 +1,8 @@
-#Demo git repository
+# Demo git repository
 
 this is the first file in this repo.
 
-##website content
+## website content
 
 here are the files in our website
 
